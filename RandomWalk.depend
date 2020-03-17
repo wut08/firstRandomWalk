@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584475888 source:c:\users\tong\desktop\randomwalk\main.cpp
+	<iostream>
+	"RandomWalkGenerator.h"
+	<cstdlib>
+
+1584472287 c:\users\tong\desktop\randomwalk\randomwalkgenerator.h
+	<vector>
+
